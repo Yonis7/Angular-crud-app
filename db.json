@@ -30,18 +30,6 @@
       "id": 2
     },
     {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "dob": "",
-      "gender": "",
-      "education": "",
-      "company": "sdaf",
-      "experience": "",
-      "package": "",
-      "id": 4
-    },
-    {
       "firstName": "test",
       "lastName": "test",
       "email": "test@gmail.com",
@@ -50,7 +38,7 @@
       "education": "Intermediate",
       "company": "fdsaf",
       "experience": 2,
-      "package": 2,
+      "package": 5,
       "id": 5
     },
     {
