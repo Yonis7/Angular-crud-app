@@ -28,18 +28,6 @@
       "experience": "",
       "package": "",
       "id": 1
-    },
-    {
-      "firstName": "tes",
-      "lastName": "tes",
-      "email": "3@gmail.com",
-      "dob": "2023-09-05T04:00:00.000Z",
-      "gender": "male",
-      "education": "Matric",
-      "company": "sfd",
-      "experience": 2,
-      "package": 2,
-      "id": 2
     }
   ]
 }
